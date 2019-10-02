@@ -1,0 +1,12 @@
+1. fork the certain repository in GitHub 
+2. clone it to my local computer
+git clone https://github.com/veta1996/git_demo.git
+3. change directory cd git_demo
+4. open demo_index.html
+make some changes 
+
+5. vetas-mbp:git_demo vetaplotnikova$ git add .
+6. vetas-mbp:git_demo vetaplotnikova$ git commit -m 'i did changes in demo file'
+7. vetas-mbp:git_demo vetaplotnikova$ git pull origin master
+8. vetas-mbp:git_demo vetaplotnikova$ git push origin master
+
